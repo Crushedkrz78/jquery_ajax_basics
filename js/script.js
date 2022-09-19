@@ -1,3 +1,6 @@
 $(document).ready(function(){
-    //Something written here
+    //DOM elements selection
+    $('#container').html('hola');
+
+    $('.class1').text('elementos');
 });
